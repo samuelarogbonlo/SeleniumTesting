@@ -13,6 +13,7 @@ The testing file above shows a simple testing procedure for finding CSS selector
 - Functional testing: The process of quality assurance of a product that assumes the testing of the functions/functionalities of a component or system in general, according to specification requirements.
 
 - UI testing: User Interface testing. In other words, you have to make sure that all buttons, fields, labels and other elements on the screen work as stated in a specification.
+- Screenshot Testing - A technique used by end-to-end testing which captures a screenshot from a URL and then compares the result with an expected image.
 
 
 ## Steps In Using Selenium To Test
