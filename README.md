@@ -21,3 +21,11 @@ The testing file above shows a simple testing procedure for finding CSS selector
 - Validate this CSS by using the console in the web browser.
 - Then, use this CSS selector in the Selenium test to click the magnifying glass.
 - A different page should be loaded with 1 search result.
+
+## Hire me
+Looking for an engineer to build and automate your next application infrastruture/architecture to work remotely? Get in touch: sbayo971@gmail.com
+
+## How can I thank you?
+Why not star the Github repo? I'd love the attention! Why not share the link for this repository on Twitter,Hackernews or Destructoid ? Spread the word!
+
+Don't forget to follow me on [twitter](https://twitter.com/SamuelArogbonlo). Also, you could see other things I do in the software enviroment via my [website](https://samuelarogbonlo.github.io/)
